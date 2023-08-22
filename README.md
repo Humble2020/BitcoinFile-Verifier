@@ -4,7 +4,7 @@ BitcoinFile-Verifier allows you to verify the validity of downloaded Bitcoin .da
 
 ## Why BitcoinFile-Verifier?
 
-Online files can sometimes turn out to be misleading or even malicious, attempting to deceive users into potential financial losses. I've personally experienced this, which is why I developed this tool. With BitcoinFile-Verifier, I was able to determine whether a .dat Bitcoin file was authentic or not. Normally, you'd have to download the Bitcoin Core client and synchronize it with the blockchain, a process that can take days or even months depending on your network speed. This synchronization is necessary to confirm whether a wallet file contains transactions or a balance. Without it, you can't validate the contents. This software comes to the rescue by allowing you to verify this information without the need to download and synchronize the entire Bitcoin Core client.
+Online files can often be deceptive or malicious, potentially leading users to financial losses. I've personally encountered such situations, which motivated me to create this tool. BitcoinFile-Verifier enables the verification of authenticity for .dat Bitcoin files. Ordinarily, you'd need to download the Bitcoin Core client and synchronize it with the blockchain—a time-consuming process that could take days or even months, depending on your network speed. This synchronization is essential to confirm transactions and balances within a wallet file. Without it, validating contents becomes impossible. This software steps in to provide a solution by allowing you to verify this information without requiring a full download and synchronization of the entire Bitcoin Core client.
 
 ## What does the Software Actually Do?
 
