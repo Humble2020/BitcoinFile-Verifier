@@ -40,21 +40,6 @@ In summary, the software provides the following features:
   </div><br>
  <div align="center">
   
-## Support BitcoinFile-Verifier Development 🚀
 
-If you find BitcoinFile-Verifier useful, consider showing your appreciation by making a donation to my Bitcoin address through the software. Any amount is invaluable and helps fuel ongoing development efforts.
-
-🎉 Your support empowers me to enhance the tool and provide continuous updates!
-
-<a href="bitcoin:bc1qhc5e9uslt5jyeq27dwje3ss9vk8fs65gzavpvp?amount=bc1qhc5e9uslt5jyeq27dwje3ss9vk8fs65gzavpvp&message=Donation%20BitcoinFileVerifier">
-  <img src="https://img.shields.io/badge/Donate-Bitcoin-F7931A?style=for-the-badge" alt="Donate Bitcoin">
-</a>
-
-
-🔥 The tool is offered for free, and donations serve as a token of encouragement. Let's build a stronger, more reliable BitcoinFile-Verifier together!
-
-Thank you for being a part of this journey! 🙌
-
-</div>
 
 
