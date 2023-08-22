@@ -46,7 +46,10 @@ If you find BitcoinFile-Verifier useful, consider showing your appreciation by m
 
 🎉 Your support empowers me to enhance the tool and provide continuous updates!
 
-[![Donate Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-F7931A?style=for-the-badge)](bc1qhc5e9uslt5jyeq27dwje3ss9vk8fs65gzavpvp)
+<a href="bitcoin:bc1qhc5e9uslt5jyeq27dwje3ss9vk8fs65gzavpvp?amount=bc1qhc5e9uslt5jyeq27dwje3ss9vk8fs65gzavpvp&message=Donation%20BitcoinFileVerifier">
+  <img src="https://img.shields.io/badge/Donate-Bitcoin-F7931A?style=for-the-badge" alt="Donate Bitcoin">
+</a>
+
 
 🔥 The tool is offered for free, and donations serve as a token of encouragement. Let's build a stronger, more reliable BitcoinFile-Verifier together!
 
