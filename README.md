@@ -20,6 +20,23 @@ In summary, the software provides the following features:
 * Identification of password protection.
 * Detection of potential tampering or editing.
 
+  ## Support BitcoinFile-Verifier Development 🚀
+
+If you find BitcoinFile-Verifier useful, consider showing your appreciation by making a donation to my Bitcoin address through the software. Any amount is invaluable and helps fuel ongoing development efforts.
+
+🎉 Your support empowers me to enhance the tool and provide continuous updates!
+
+<a href="https://nowpayments.io/embeds/donation-widget?api_key=WB2GHGW-R4FM77N-JB0342N-J5V3XN2">
+  <img src="https://img.shields.io/badge/Donate-Bitcoin-F7931A?style=for-the-badge" alt="Donate Bitcoin">
+</a>
+
+
+🔥 The tool is offered for free, and donations serve as a token of encouragement. Let's build a stronger, more reliable BitcoinFile-Verifier together!
+
+Thank you for being a part of this journey! 🙌
+
+</div>
+
   ## ScreenShots of Software
   
   <div align="center">
@@ -41,5 +58,5 @@ In summary, the software provides the following features:
  <div align="center">
   
 
-
+<iframe src="https://nowpayments.io/embeds/donation-widget?api_key=WB2GHGW-R4FM77N-JB0342N-J5V3XN2&source=lk_donation&medium=referral" frameborder="0" scrolling="no" style="overflow-y: hidden;" width="354" height="680"></iframe>
 
