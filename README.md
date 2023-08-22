@@ -21,18 +21,37 @@ In summary, the software provides the following features:
 * Detection of potential tampering or editing.
 
   ## ScreenShots of Software
-  #### Below file *contains a transaction*, the file is *password-protected*, and *it has not been tampered with.*
- <img src="https://github.com/Humble2020/BitcoinFile-Verifier/assets/118256659/5a7c7ade-016b-4276-bc17-1a50576acb88" width="50%" height="40%">
- 
-  #### Below file *contains no transaction*, the file is *not password-protected*, and *it has not been tampered with.*
   
- <img src="https://github.com/Humble2020/BitcoinFile-Verifier/assets/118256659/cfe273fc-0aa4-40fc-94bd-71e44554ab9f" width="50%" height="40%">
-
-  #### Below file *contains no transaction*, the file is *password-protected*, and *it has not been tampered with.*
+  <div align="center">
+    <b>Below file contains a transaction, the file is password-protected, and it has not been tampered with.</b> <br><br>
+        <img src="https://github.com/Humble2020/BitcoinFile-Verifier/assets/118256659/5a7c7ade-016b-4276-bc17-1a50576acb88" width="50%" height="40%">
+  </div>  <br>
+     <div align="center">
+       <b>Below file contains no transaction, the file is not password-protected, and it has not been tampered with.</b><br><br>     
+  <img src="https://github.com/Humble2020/BitcoinFile-Verifier/assets/118256659/cfe273fc-0aa4-40fc-94bd-71e44554ab9f" width="50%" height="40%">
+  </div> <br>
+   <div align="center">
+      <b>Below file contains no transaction, the file is password-protected, and it has not been tampered with.</b><br><br>     
+     <img src="https://github.com/Humble2020/BitcoinFile-Verifier/assets/118256659/3680cbae-85c1-4fab-ad42-de1f1310866b" width="50%" height="40%">
+  </div> <br>
+  <div align="center">
+     <b>The idle state of the software when first run.</b><br><br>    
+    <img src="https://github.com/Humble2020/BitcoinFile-Verifier/assets/118256659/706af3a7-e370-464f-a026-7b4a61218e37" width="50%" height="40%">
+  </div><br>
+ <div align="center">
   
- <img src="https://github.com/Humble2020/BitcoinFile-Verifier/assets/118256659/3680cbae-85c1-4fab-ad42-de1f1310866b" width="50%" height="40%">
+## Support BitcoinFile-Verifier Development 🚀
 
- #### The idle state of the software when first run.*
- 
- <img src="https://github.com/Humble2020/BitcoinFile-Verifier/assets/118256659/706af3a7-e370-464f-a026-7b4a61218e37" width="50%" height="40%">
+If you find BitcoinFile-Verifier useful, consider showing your appreciation by making a donation to my Bitcoin address through the software. Any amount is invaluable and helps fuel ongoing development efforts.
+
+🎉 Your support empowers me to enhance the tool and provide continuous updates!
+
+[![Donate Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-F7931A?style=for-the-badge)](bc1qhc5e9uslt5jyeq27dwje3ss9vk8fs65gzavpvp)
+
+🔥 The tool is offered for free, and donations serve as a token of encouragement. Let's build a stronger, more reliable BitcoinFile-Verifier together!
+
+Thank you for being a part of this journey! 🙌
+
+</div>
+
 
