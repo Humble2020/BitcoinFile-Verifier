@@ -26,13 +26,13 @@ In summary, the software provides the following features:
 
 If you find BitcoinFile-Verifier useful, consider showing your appreciation by making a donation to my Bitcoin address through the software. Any amount is invaluable and helps fuel ongoing development efforts.
 
-🎉 Your support empowers me to enhance the tool and provide continuous updates!
-
+🎉 Your support empowers me to enhance the tool and provide continuous updates!<br><br>
+  <div align="center">
 
   <a href="https://nowpayments.io/donation?api_key=WB2GHGW-R4FM77N-JB0342N-J5V3XN2&source=lk_donation&medium=referral" target="_blank">
      <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Crypto donation button by NOWPayments">
     </a>
-    
+    </div>
 
 🔥 The tool is offered for free, and donations serve as a token of encouragement. Let's build a stronger, more reliable BitcoinFile-Verifier together!
 
@@ -61,6 +61,3 @@ Thank you for being a part of this journey! 🙌
   </div><br>
  <div align="center">
   
-
-<iframe src="https://nowpayments.io/embeds/donation-widget?api_key=WB2GHGW-R4FM77N-JB0342N-J5V3XN2&source=lk_donation&medium=referral" frameborder="0" scrolling="no" style="overflow-y: hidden;" width="354" height="680"></iframe>
-
